@@ -1,6 +1,5 @@
 
-/* Your CSS Code here. */
-holder{
+/* Your CSS Code here. */.holder{
 
     display: grid;
 grid-template-columns: repeat(2,200px);
@@ -15,15 +14,14 @@ background-color: aquamarine;
 }
 
 .items2{
-    background-color: green;
+    background-color: rgb(33, 12, 109);
     
     }
     .items3{
-        background-color: red;
+        background-color: rgb(6, 167, 46);
         
         }
         .items4{
-            background-color:yellow;
+            background-color: rgb(6, 46, 32);
             
             }
-            
