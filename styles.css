@@ -1,2 +1,29 @@
 
 /* Your CSS Code here. */
+holder{
+
+    display: grid;
+grid-template-columns: repeat(2,200px);
+grid-template-rows: repeat(2,200px);
+background-color: blueviolet;
+row-gap: 5px;
+border-radius: 5px;
+}
+.items1{
+background-color: aquamarine;
+
+}
+
+.items2{
+    background-color: green;
+    
+    }
+    .items3{
+        background-color: red;
+        
+        }
+        .items4{
+            background-color:yellow;
+            
+            }
+            
